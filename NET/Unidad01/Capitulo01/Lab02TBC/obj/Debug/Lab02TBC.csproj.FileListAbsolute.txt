@@ -1,0 +1,7 @@
+C:\NET\Unidad01\Capitulo01\Lab02TBC\obj\Debug\Lab02TBC.csproj.AssemblyReference.cache
+C:\NET\Unidad01\Capitulo01\Lab02TBC\obj\Debug\Lab02TBC.csproj.CoreCompileInputs.cache
+C:\NET\Unidad01\Capitulo01\Lab02TBC\bin\Debug\Lab02TBC.exe.config
+C:\NET\Unidad01\Capitulo01\Lab02TBC\bin\Debug\Lab02TBC.exe
+C:\NET\Unidad01\Capitulo01\Lab02TBC\bin\Debug\Lab02TBC.pdb
+C:\NET\Unidad01\Capitulo01\Lab02TBC\obj\Debug\Lab02TBC.exe
+C:\NET\Unidad01\Capitulo01\Lab02TBC\obj\Debug\Lab02TBC.pdb

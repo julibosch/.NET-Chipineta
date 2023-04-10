@@ -1,0 +1,16 @@
+C:\Users\ALUMNO\source\repos\LabSintaxis3-BBC\bin\Debug\net5.0\LabSintaxis3-BBC.exe
+C:\Users\ALUMNO\source\repos\LabSintaxis3-BBC\bin\Debug\net5.0\LabSintaxis3-BBC.deps.json
+C:\Users\ALUMNO\source\repos\LabSintaxis3-BBC\bin\Debug\net5.0\LabSintaxis3-BBC.runtimeconfig.json
+C:\Users\ALUMNO\source\repos\LabSintaxis3-BBC\bin\Debug\net5.0\LabSintaxis3-BBC.runtimeconfig.dev.json
+C:\Users\ALUMNO\source\repos\LabSintaxis3-BBC\bin\Debug\net5.0\LabSintaxis3-BBC.dll
+C:\Users\ALUMNO\source\repos\LabSintaxis3-BBC\bin\Debug\net5.0\ref\LabSintaxis3-BBC.dll
+C:\Users\ALUMNO\source\repos\LabSintaxis3-BBC\bin\Debug\net5.0\LabSintaxis3-BBC.pdb
+C:\Users\ALUMNO\source\repos\LabSintaxis3-BBC\obj\Debug\net5.0\LabSintaxis3-BBC.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\source\repos\LabSintaxis3-BBC\obj\Debug\net5.0\LabSintaxis3-BBC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUMNO\source\repos\LabSintaxis3-BBC\obj\Debug\net5.0\LabSintaxis3-BBC.AssemblyInfoInputs.cache
+C:\Users\ALUMNO\source\repos\LabSintaxis3-BBC\obj\Debug\net5.0\LabSintaxis3-BBC.AssemblyInfo.cs
+C:\Users\ALUMNO\source\repos\LabSintaxis3-BBC\obj\Debug\net5.0\LabSintaxis3-BBC.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\source\repos\LabSintaxis3-BBC\obj\Debug\net5.0\LabSintaxis3-BBC.dll
+C:\Users\ALUMNO\source\repos\LabSintaxis3-BBC\obj\Debug\net5.0\ref\LabSintaxis3-BBC.dll
+C:\Users\ALUMNO\source\repos\LabSintaxis3-BBC\obj\Debug\net5.0\LabSintaxis3-BBC.pdb
+C:\Users\ALUMNO\source\repos\LabSintaxis3-BBC\obj\Debug\net5.0\LabSintaxis3-BBC.genruntimeconfig.cache

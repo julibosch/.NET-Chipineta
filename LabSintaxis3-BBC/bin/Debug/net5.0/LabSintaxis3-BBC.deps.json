@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LabSintaxis3-BBC/1.0.0": {
+        "runtime": {
+          "LabSintaxis3-BBC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LabSintaxis3-BBC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

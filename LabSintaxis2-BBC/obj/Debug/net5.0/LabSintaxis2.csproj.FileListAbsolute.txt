@@ -1,0 +1,16 @@
+C:\Users\ALUMNO\source\repos\LabSintaxis2\bin\Debug\net5.0\LabSintaxis2.exe
+C:\Users\ALUMNO\source\repos\LabSintaxis2\bin\Debug\net5.0\LabSintaxis2.deps.json
+C:\Users\ALUMNO\source\repos\LabSintaxis2\bin\Debug\net5.0\LabSintaxis2.runtimeconfig.json
+C:\Users\ALUMNO\source\repos\LabSintaxis2\bin\Debug\net5.0\LabSintaxis2.runtimeconfig.dev.json
+C:\Users\ALUMNO\source\repos\LabSintaxis2\bin\Debug\net5.0\LabSintaxis2.dll
+C:\Users\ALUMNO\source\repos\LabSintaxis2\bin\Debug\net5.0\ref\LabSintaxis2.dll
+C:\Users\ALUMNO\source\repos\LabSintaxis2\bin\Debug\net5.0\LabSintaxis2.pdb
+C:\Users\ALUMNO\source\repos\LabSintaxis2\obj\Debug\net5.0\LabSintaxis2.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\source\repos\LabSintaxis2\obj\Debug\net5.0\LabSintaxis2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUMNO\source\repos\LabSintaxis2\obj\Debug\net5.0\LabSintaxis2.AssemblyInfoInputs.cache
+C:\Users\ALUMNO\source\repos\LabSintaxis2\obj\Debug\net5.0\LabSintaxis2.AssemblyInfo.cs
+C:\Users\ALUMNO\source\repos\LabSintaxis2\obj\Debug\net5.0\LabSintaxis2.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\source\repos\LabSintaxis2\obj\Debug\net5.0\LabSintaxis2.dll
+C:\Users\ALUMNO\source\repos\LabSintaxis2\obj\Debug\net5.0\ref\LabSintaxis2.dll
+C:\Users\ALUMNO\source\repos\LabSintaxis2\obj\Debug\net5.0\LabSintaxis2.pdb
+C:\Users\ALUMNO\source\repos\LabSintaxis2\obj\Debug\net5.0\LabSintaxis2.genruntimeconfig.cache

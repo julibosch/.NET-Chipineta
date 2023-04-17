@@ -1,0 +1,16 @@
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Ej 4\Lab0201-ParaPensar4\Lab0201-ParaPensar4\bin\Debug\net5.0\Lab0201-ParaPensar4.exe
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Ej 4\Lab0201-ParaPensar4\Lab0201-ParaPensar4\bin\Debug\net5.0\Lab0201-ParaPensar4.deps.json
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Ej 4\Lab0201-ParaPensar4\Lab0201-ParaPensar4\bin\Debug\net5.0\Lab0201-ParaPensar4.runtimeconfig.json
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Ej 4\Lab0201-ParaPensar4\Lab0201-ParaPensar4\bin\Debug\net5.0\Lab0201-ParaPensar4.runtimeconfig.dev.json
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Ej 4\Lab0201-ParaPensar4\Lab0201-ParaPensar4\bin\Debug\net5.0\Lab0201-ParaPensar4.dll
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Ej 4\Lab0201-ParaPensar4\Lab0201-ParaPensar4\bin\Debug\net5.0\ref\Lab0201-ParaPensar4.dll
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Ej 4\Lab0201-ParaPensar4\Lab0201-ParaPensar4\bin\Debug\net5.0\Lab0201-ParaPensar4.pdb
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Ej 4\Lab0201-ParaPensar4\Lab0201-ParaPensar4\obj\Debug\net5.0\Lab0201-ParaPensar4.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Ej 4\Lab0201-ParaPensar4\Lab0201-ParaPensar4\obj\Debug\net5.0\Lab0201-ParaPensar4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Ej 4\Lab0201-ParaPensar4\Lab0201-ParaPensar4\obj\Debug\net5.0\Lab0201-ParaPensar4.AssemblyInfoInputs.cache
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Ej 4\Lab0201-ParaPensar4\Lab0201-ParaPensar4\obj\Debug\net5.0\Lab0201-ParaPensar4.AssemblyInfo.cs
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Ej 4\Lab0201-ParaPensar4\Lab0201-ParaPensar4\obj\Debug\net5.0\Lab0201-ParaPensar4.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Ej 4\Lab0201-ParaPensar4\Lab0201-ParaPensar4\obj\Debug\net5.0\Lab0201-ParaPensar4.dll
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Ej 4\Lab0201-ParaPensar4\Lab0201-ParaPensar4\obj\Debug\net5.0\ref\Lab0201-ParaPensar4.dll
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Ej 4\Lab0201-ParaPensar4\Lab0201-ParaPensar4\obj\Debug\net5.0\Lab0201-ParaPensar4.pdb
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Ej 4\Lab0201-ParaPensar4\Lab0201-ParaPensar4\obj\Debug\net5.0\Lab0201-ParaPensar4.genruntimeconfig.cache

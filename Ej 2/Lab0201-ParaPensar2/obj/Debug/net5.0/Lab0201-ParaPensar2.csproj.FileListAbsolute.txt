@@ -1,0 +1,15 @@
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Ej 2\Lab0201-ParaPensar2\Lab0201-ParaPensar2\bin\Debug\net5.0\Lab0201-ParaPensar2.exe
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Ej 2\Lab0201-ParaPensar2\Lab0201-ParaPensar2\bin\Debug\net5.0\Lab0201-ParaPensar2.deps.json
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Ej 2\Lab0201-ParaPensar2\Lab0201-ParaPensar2\bin\Debug\net5.0\Lab0201-ParaPensar2.runtimeconfig.json
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Ej 2\Lab0201-ParaPensar2\Lab0201-ParaPensar2\bin\Debug\net5.0\Lab0201-ParaPensar2.runtimeconfig.dev.json
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Ej 2\Lab0201-ParaPensar2\Lab0201-ParaPensar2\bin\Debug\net5.0\Lab0201-ParaPensar2.dll
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Ej 2\Lab0201-ParaPensar2\Lab0201-ParaPensar2\bin\Debug\net5.0\ref\Lab0201-ParaPensar2.dll
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Ej 2\Lab0201-ParaPensar2\Lab0201-ParaPensar2\bin\Debug\net5.0\Lab0201-ParaPensar2.pdb
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Ej 2\Lab0201-ParaPensar2\Lab0201-ParaPensar2\obj\Debug\net5.0\Lab0201-ParaPensar2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Ej 2\Lab0201-ParaPensar2\Lab0201-ParaPensar2\obj\Debug\net5.0\Lab0201-ParaPensar2.AssemblyInfoInputs.cache
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Ej 2\Lab0201-ParaPensar2\Lab0201-ParaPensar2\obj\Debug\net5.0\Lab0201-ParaPensar2.AssemblyInfo.cs
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Ej 2\Lab0201-ParaPensar2\Lab0201-ParaPensar2\obj\Debug\net5.0\Lab0201-ParaPensar2.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Ej 2\Lab0201-ParaPensar2\Lab0201-ParaPensar2\obj\Debug\net5.0\Lab0201-ParaPensar2.dll
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Ej 2\Lab0201-ParaPensar2\Lab0201-ParaPensar2\obj\Debug\net5.0\ref\Lab0201-ParaPensar2.dll
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Ej 2\Lab0201-ParaPensar2\Lab0201-ParaPensar2\obj\Debug\net5.0\Lab0201-ParaPensar2.pdb
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Ej 2\Lab0201-ParaPensar2\Lab0201-ParaPensar2\obj\Debug\net5.0\Lab0201-ParaPensar2.genruntimeconfig.cache

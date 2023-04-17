@@ -1,0 +1,16 @@
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Lab0201-ParaPensar\bin\Debug\net5.0\Lab0201-ParaPensar.exe
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Lab0201-ParaPensar\bin\Debug\net5.0\Lab0201-ParaPensar.deps.json
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Lab0201-ParaPensar\bin\Debug\net5.0\Lab0201-ParaPensar.runtimeconfig.json
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Lab0201-ParaPensar\bin\Debug\net5.0\Lab0201-ParaPensar.runtimeconfig.dev.json
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Lab0201-ParaPensar\bin\Debug\net5.0\Lab0201-ParaPensar.dll
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Lab0201-ParaPensar\bin\Debug\net5.0\ref\Lab0201-ParaPensar.dll
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Lab0201-ParaPensar\bin\Debug\net5.0\Lab0201-ParaPensar.pdb
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Lab0201-ParaPensar\obj\Debug\net5.0\Lab0201-ParaPensar.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Lab0201-ParaPensar\obj\Debug\net5.0\Lab0201-ParaPensar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Lab0201-ParaPensar\obj\Debug\net5.0\Lab0201-ParaPensar.AssemblyInfoInputs.cache
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Lab0201-ParaPensar\obj\Debug\net5.0\Lab0201-ParaPensar.AssemblyInfo.cs
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Lab0201-ParaPensar\obj\Debug\net5.0\Lab0201-ParaPensar.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Lab0201-ParaPensar\obj\Debug\net5.0\Lab0201-ParaPensar.dll
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Lab0201-ParaPensar\obj\Debug\net5.0\ref\Lab0201-ParaPensar.dll
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Lab0201-ParaPensar\obj\Debug\net5.0\Lab0201-ParaPensar.pdb
+C:\Users\ALUMNO\source\repos\Lab0201-ParaPensar\Lab0201-ParaPensar\obj\Debug\net5.0\Lab0201-ParaPensar.genruntimeconfig.cache

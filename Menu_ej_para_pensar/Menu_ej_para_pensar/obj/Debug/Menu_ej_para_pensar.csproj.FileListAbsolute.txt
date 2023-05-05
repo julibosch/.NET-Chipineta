@@ -1,0 +1,7 @@
+C:\Users\.NET 2023\Unidad2-Cap1\Menu_ej_para_pensar\Menu_ej_para_pensar\obj\Debug\Menu_ej_para_pensar.csproj.AssemblyReference.cache
+C:\Users\.NET 2023\Unidad2-Cap1\Menu_ej_para_pensar\Menu_ej_para_pensar\obj\Debug\Menu_ej_para_pensar.csproj.CoreCompileInputs.cache
+C:\Users\.NET 2023\Unidad2-Cap1\Menu_ej_para_pensar\Menu_ej_para_pensar\bin\Debug\Menu_ej_para_pensar.exe.config
+C:\Users\.NET 2023\Unidad2-Cap1\Menu_ej_para_pensar\Menu_ej_para_pensar\bin\Debug\Menu_ej_para_pensar.exe
+C:\Users\.NET 2023\Unidad2-Cap1\Menu_ej_para_pensar\Menu_ej_para_pensar\bin\Debug\Menu_ej_para_pensar.pdb
+C:\Users\.NET 2023\Unidad2-Cap1\Menu_ej_para_pensar\Menu_ej_para_pensar\obj\Debug\Menu_ej_para_pensar.exe
+C:\Users\.NET 2023\Unidad2-Cap1\Menu_ej_para_pensar\Menu_ej_para_pensar\obj\Debug\Menu_ej_para_pensar.pdb

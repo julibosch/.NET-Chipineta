@@ -1,0 +1,12 @@
+C:\Users\ALUMNO\source\repos\Persona\bin\Debug\net6.0\CrearPersona.deps.json
+C:\Users\ALUMNO\source\repos\Persona\bin\Debug\net6.0\CrearPersona.dll
+C:\Users\ALUMNO\source\repos\Persona\bin\Debug\net6.0\CrearPersona.pdb
+C:\Users\ALUMNO\source\repos\Persona\obj\Debug\net6.0\CrearPersona.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\source\repos\Persona\obj\Debug\net6.0\CrearPersona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUMNO\source\repos\Persona\obj\Debug\net6.0\CrearPersona.AssemblyInfoInputs.cache
+C:\Users\ALUMNO\source\repos\Persona\obj\Debug\net6.0\CrearPersona.AssemblyInfo.cs
+C:\Users\ALUMNO\source\repos\Persona\obj\Debug\net6.0\CrearPersona.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\source\repos\Persona\obj\Debug\net6.0\CrearPersona.dll
+C:\Users\ALUMNO\source\repos\Persona\obj\Debug\net6.0\refint\CrearPersona.dll
+C:\Users\ALUMNO\source\repos\Persona\obj\Debug\net6.0\CrearPersona.pdb
+C:\Users\ALUMNO\source\repos\Persona\obj\Debug\net6.0\ref\CrearPersona.dll

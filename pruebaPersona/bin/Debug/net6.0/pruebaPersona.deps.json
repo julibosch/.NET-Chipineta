@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "pruebaPersona/1.0.0": {
+        "dependencies": {
+          "CrearPersona": "1.0.0"
+        },
+        "runtime": {
+          "pruebaPersona.dll": {}
+        }
+      },
+      "CrearPersona/1.0.0": {
+        "runtime": {
+          "CrearPersona.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pruebaPersona/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CrearPersona/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\matia\source\.NET\Unidad 2\Capitulo 2\AdivineElNumero\AdivineElNumero\bin\Debug\net6.0\AdivineElNumero.exe
+C:\Users\matia\source\.NET\Unidad 2\Capitulo 2\AdivineElNumero\AdivineElNumero\bin\Debug\net6.0\AdivineElNumero.deps.json
+C:\Users\matia\source\.NET\Unidad 2\Capitulo 2\AdivineElNumero\AdivineElNumero\bin\Debug\net6.0\AdivineElNumero.runtimeconfig.json
+C:\Users\matia\source\.NET\Unidad 2\Capitulo 2\AdivineElNumero\AdivineElNumero\bin\Debug\net6.0\AdivineElNumero.dll
+C:\Users\matia\source\.NET\Unidad 2\Capitulo 2\AdivineElNumero\AdivineElNumero\bin\Debug\net6.0\AdivineElNumero.pdb
+C:\Users\matia\source\.NET\Unidad 2\Capitulo 2\AdivineElNumero\AdivineElNumero\obj\Debug\net6.0\AdivineElNumero.csproj.AssemblyReference.cache
+C:\Users\matia\source\.NET\Unidad 2\Capitulo 2\AdivineElNumero\AdivineElNumero\obj\Debug\net6.0\AdivineElNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\source\.NET\Unidad 2\Capitulo 2\AdivineElNumero\AdivineElNumero\obj\Debug\net6.0\AdivineElNumero.AssemblyInfoInputs.cache
+C:\Users\matia\source\.NET\Unidad 2\Capitulo 2\AdivineElNumero\AdivineElNumero\obj\Debug\net6.0\AdivineElNumero.AssemblyInfo.cs
+C:\Users\matia\source\.NET\Unidad 2\Capitulo 2\AdivineElNumero\AdivineElNumero\obj\Debug\net6.0\AdivineElNumero.csproj.CoreCompileInputs.cache
+C:\Users\matia\source\.NET\Unidad 2\Capitulo 2\AdivineElNumero\AdivineElNumero\obj\Debug\net6.0\AdivineElNumero.dll
+C:\Users\matia\source\.NET\Unidad 2\Capitulo 2\AdivineElNumero\AdivineElNumero\obj\Debug\net6.0\refint\AdivineElNumero.dll
+C:\Users\matia\source\.NET\Unidad 2\Capitulo 2\AdivineElNumero\AdivineElNumero\obj\Debug\net6.0\AdivineElNumero.pdb
+C:\Users\matia\source\.NET\Unidad 2\Capitulo 2\AdivineElNumero\AdivineElNumero\obj\Debug\net6.0\AdivineElNumero.genruntimeconfig.cache
+C:\Users\matia\source\.NET\Unidad 2\Capitulo 2\AdivineElNumero\AdivineElNumero\obj\Debug\net6.0\ref\AdivineElNumero.dll

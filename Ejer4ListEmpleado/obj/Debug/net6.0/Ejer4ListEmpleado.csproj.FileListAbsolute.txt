@@ -1,0 +1,15 @@
+C:\Users\54346\source\repos\Ejer4ListEmpleado\bin\Debug\net6.0\Ejer4ListEmpleado.exe
+C:\Users\54346\source\repos\Ejer4ListEmpleado\bin\Debug\net6.0\Ejer4ListEmpleado.deps.json
+C:\Users\54346\source\repos\Ejer4ListEmpleado\bin\Debug\net6.0\Ejer4ListEmpleado.runtimeconfig.json
+C:\Users\54346\source\repos\Ejer4ListEmpleado\bin\Debug\net6.0\Ejer4ListEmpleado.dll
+C:\Users\54346\source\repos\Ejer4ListEmpleado\bin\Debug\net6.0\Ejer4ListEmpleado.pdb
+C:\Users\54346\source\repos\Ejer4ListEmpleado\obj\Debug\net6.0\Ejer4ListEmpleado.csproj.AssemblyReference.cache
+C:\Users\54346\source\repos\Ejer4ListEmpleado\obj\Debug\net6.0\Ejer4ListEmpleado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54346\source\repos\Ejer4ListEmpleado\obj\Debug\net6.0\Ejer4ListEmpleado.AssemblyInfoInputs.cache
+C:\Users\54346\source\repos\Ejer4ListEmpleado\obj\Debug\net6.0\Ejer4ListEmpleado.AssemblyInfo.cs
+C:\Users\54346\source\repos\Ejer4ListEmpleado\obj\Debug\net6.0\Ejer4ListEmpleado.csproj.CoreCompileInputs.cache
+C:\Users\54346\source\repos\Ejer4ListEmpleado\obj\Debug\net6.0\Ejer4ListEmpleado.dll
+C:\Users\54346\source\repos\Ejer4ListEmpleado\obj\Debug\net6.0\refint\Ejer4ListEmpleado.dll
+C:\Users\54346\source\repos\Ejer4ListEmpleado\obj\Debug\net6.0\Ejer4ListEmpleado.pdb
+C:\Users\54346\source\repos\Ejer4ListEmpleado\obj\Debug\net6.0\Ejer4ListEmpleado.genruntimeconfig.cache
+C:\Users\54346\source\repos\Ejer4ListEmpleado\obj\Debug\net6.0\ref\Ejer4ListEmpleado.dll

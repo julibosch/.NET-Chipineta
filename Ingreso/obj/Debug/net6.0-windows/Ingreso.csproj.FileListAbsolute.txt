@@ -1,0 +1,54 @@
+C:\Users\Negocio\source\repos\Ingreso\Ingreso\bin\Debug\net6.0-windows\Ingreso.exe
+C:\Users\Negocio\source\repos\Ingreso\Ingreso\bin\Debug\net6.0-windows\Ingreso.deps.json
+C:\Users\Negocio\source\repos\Ingreso\Ingreso\bin\Debug\net6.0-windows\Ingreso.runtimeconfig.json
+C:\Users\Negocio\source\repos\Ingreso\Ingreso\bin\Debug\net6.0-windows\Ingreso.dll
+C:\Users\Negocio\source\repos\Ingreso\Ingreso\bin\Debug\net6.0-windows\Ingreso.pdb
+C:\Users\Negocio\source\repos\Ingreso\Ingreso\obj\Debug\net6.0-windows\Ingreso.csproj.AssemblyReference.cache
+C:\Users\Negocio\source\repos\Ingreso\Ingreso\obj\Debug\net6.0-windows\Ingreso.formLogin.resources
+C:\Users\Negocio\source\repos\Ingreso\Ingreso\obj\Debug\net6.0-windows\Ingreso.formRegistro.resources
+C:\Users\Negocio\source\repos\Ingreso\Ingreso\obj\Debug\net6.0-windows\Ingreso.csproj.GenerateResource.cache
+C:\Users\Negocio\source\repos\Ingreso\Ingreso\obj\Debug\net6.0-windows\Ingreso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Negocio\source\repos\Ingreso\Ingreso\obj\Debug\net6.0-windows\Ingreso.AssemblyInfoInputs.cache
+C:\Users\Negocio\source\repos\Ingreso\Ingreso\obj\Debug\net6.0-windows\Ingreso.AssemblyInfo.cs
+C:\Users\Negocio\source\repos\Ingreso\Ingreso\obj\Debug\net6.0-windows\Ingreso.csproj.CoreCompileInputs.cache
+C:\Users\Negocio\source\repos\Ingreso\Ingreso\obj\Debug\net6.0-windows\Ingreso.dll
+C:\Users\Negocio\source\repos\Ingreso\Ingreso\obj\Debug\net6.0-windows\refint\Ingreso.dll
+C:\Users\Negocio\source\repos\Ingreso\Ingreso\obj\Debug\net6.0-windows\Ingreso.pdb
+C:\Users\Negocio\source\repos\Ingreso\Ingreso\obj\Debug\net6.0-windows\Ingreso.genruntimeconfig.cache
+C:\Users\Negocio\source\repos\Ingreso\Ingreso\obj\Debug\net6.0-windows\ref\Ingreso.dll
+C:\Users\ALUMNO\Tpi-main (2)\Tpi-main\Ingreso\Ingreso\bin\Debug\net6.0-windows\Ingreso.exe
+C:\Users\ALUMNO\Tpi-main (2)\Tpi-main\Ingreso\Ingreso\bin\Debug\net6.0-windows\Ingreso.deps.json
+C:\Users\ALUMNO\Tpi-main (2)\Tpi-main\Ingreso\Ingreso\bin\Debug\net6.0-windows\Ingreso.runtimeconfig.json
+C:\Users\ALUMNO\Tpi-main (2)\Tpi-main\Ingreso\Ingreso\bin\Debug\net6.0-windows\Ingreso.dll
+C:\Users\ALUMNO\Tpi-main (2)\Tpi-main\Ingreso\Ingreso\bin\Debug\net6.0-windows\Ingreso.pdb
+C:\Users\ALUMNO\Tpi-main (2)\Tpi-main\Ingreso\Ingreso\obj\Debug\net6.0-windows\Ingreso.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Tpi-main (2)\Tpi-main\Ingreso\Ingreso\obj\Debug\net6.0-windows\Ingreso.formLogin.resources
+C:\Users\ALUMNO\Tpi-main (2)\Tpi-main\Ingreso\Ingreso\obj\Debug\net6.0-windows\Ingreso.formRegistro.resources
+C:\Users\ALUMNO\Tpi-main (2)\Tpi-main\Ingreso\Ingreso\obj\Debug\net6.0-windows\Ingreso.csproj.GenerateResource.cache
+C:\Users\ALUMNO\Tpi-main (2)\Tpi-main\Ingreso\Ingreso\obj\Debug\net6.0-windows\Ingreso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUMNO\Tpi-main (2)\Tpi-main\Ingreso\Ingreso\obj\Debug\net6.0-windows\Ingreso.AssemblyInfoInputs.cache
+C:\Users\ALUMNO\Tpi-main (2)\Tpi-main\Ingreso\Ingreso\obj\Debug\net6.0-windows\Ingreso.AssemblyInfo.cs
+C:\Users\ALUMNO\Tpi-main (2)\Tpi-main\Ingreso\Ingreso\obj\Debug\net6.0-windows\Ingreso.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Tpi-main (2)\Tpi-main\Ingreso\Ingreso\obj\Debug\net6.0-windows\Ingreso.dll
+C:\Users\ALUMNO\Tpi-main (2)\Tpi-main\Ingreso\Ingreso\obj\Debug\net6.0-windows\refint\Ingreso.dll
+C:\Users\ALUMNO\Tpi-main (2)\Tpi-main\Ingreso\Ingreso\obj\Debug\net6.0-windows\Ingreso.pdb
+C:\Users\ALUMNO\Tpi-main (2)\Tpi-main\Ingreso\Ingreso\obj\Debug\net6.0-windows\Ingreso.genruntimeconfig.cache
+C:\Users\ALUMNO\Tpi-main (2)\Tpi-main\Ingreso\Ingreso\obj\Debug\net6.0-windows\ref\Ingreso.dll
+C:\Users\ALUMNO\Downloads\net-main\.net-main\Ingreso\bin\Debug\net6.0-windows\Ingreso.exe
+C:\Users\ALUMNO\Downloads\net-main\.net-main\Ingreso\bin\Debug\net6.0-windows\Ingreso.deps.json
+C:\Users\ALUMNO\Downloads\net-main\.net-main\Ingreso\bin\Debug\net6.0-windows\Ingreso.runtimeconfig.json
+C:\Users\ALUMNO\Downloads\net-main\.net-main\Ingreso\bin\Debug\net6.0-windows\Ingreso.dll
+C:\Users\ALUMNO\Downloads\net-main\.net-main\Ingreso\bin\Debug\net6.0-windows\Ingreso.pdb
+C:\Users\ALUMNO\Downloads\net-main\.net-main\Ingreso\obj\Debug\net6.0-windows\Ingreso.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Downloads\net-main\.net-main\Ingreso\obj\Debug\net6.0-windows\Ingreso.formLogin.resources
+C:\Users\ALUMNO\Downloads\net-main\.net-main\Ingreso\obj\Debug\net6.0-windows\Ingreso.formRegistro.resources
+C:\Users\ALUMNO\Downloads\net-main\.net-main\Ingreso\obj\Debug\net6.0-windows\Ingreso.csproj.GenerateResource.cache
+C:\Users\ALUMNO\Downloads\net-main\.net-main\Ingreso\obj\Debug\net6.0-windows\Ingreso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUMNO\Downloads\net-main\.net-main\Ingreso\obj\Debug\net6.0-windows\Ingreso.AssemblyInfoInputs.cache
+C:\Users\ALUMNO\Downloads\net-main\.net-main\Ingreso\obj\Debug\net6.0-windows\Ingreso.AssemblyInfo.cs
+C:\Users\ALUMNO\Downloads\net-main\.net-main\Ingreso\obj\Debug\net6.0-windows\Ingreso.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Downloads\net-main\.net-main\Ingreso\obj\Debug\net6.0-windows\Ingreso.dll
+C:\Users\ALUMNO\Downloads\net-main\.net-main\Ingreso\obj\Debug\net6.0-windows\refint\Ingreso.dll
+C:\Users\ALUMNO\Downloads\net-main\.net-main\Ingreso\obj\Debug\net6.0-windows\Ingreso.pdb
+C:\Users\ALUMNO\Downloads\net-main\.net-main\Ingreso\obj\Debug\net6.0-windows\Ingreso.genruntimeconfig.cache
+C:\Users\ALUMNO\Downloads\net-main\.net-main\Ingreso\obj\Debug\net6.0-windows\ref\Ingreso.dll

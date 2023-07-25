@@ -29,6 +29,14 @@ namespace Ingreso
             this.password = password;
         }
 
+        public String getNombre()
+        {
+            return this.nombre;
+        }
+        public String getApellido()
+        {
+            return this.apellido;
+        }
         public String getMail() 
         {
             return this.mail;

@@ -63,9 +63,17 @@ namespace Ingreso
                 Persona persona = new Persona(this.txtNombre.Text, this.txtApellido.Text, this.txtMail.Text, this.txtPass.Text);
                 if (Ingreso.Program.AddPersona(persona))
                 {
-                    this.Hide();
-                    formLogin formIngreso = new formLogin();
-                    formIngreso.ShowDialog();
+                    if (Ingreso.Program.NuevoSocio(persona))
+                    {
+                        this.Hide();
+                        formLogin formIngreso = new formLogin();
+                        formIngreso.ShowDialog();
+                    }
+                    else {
+                        this.lblValidar.Visible = true;
+                        this.lblValidar.Text = "Ups. Ocurrio un error";
+                        this.lblValidar.ForeColor = Color.Red;
+                    }
 
                 }
                 else

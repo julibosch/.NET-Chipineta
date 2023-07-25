@@ -1,5 +1,8 @@
 using System.Collections;
 using System.ComponentModel.DataAnnotations;
+using System.Data.SqlClient;
+
+
 
 namespace Ingreso
 {
@@ -64,6 +67,47 @@ namespace Ingreso
             }
             return val;
         }
+        public static Boolean NuevoSocio(Persona per)
+        {
+            string nombre = per.getNombre();
+            string apellido = per.getApellido();
+            string mail = per.getMail();
+            string password = per.getPassword();
+
+            string cadenaConexion = "Data Source=NOTEBOOK-DE-TOM\\SQLEXPRESS;Initial Catalog=BaseClub;Integrated Security=True;";
+
+            string consulta = "INSERT INTO Persona (nombre, apellido, mail, password) VALUES (@Nombre, @Apellido, @Mail, @Password)";
+
+            try
+            {   
+                // Abrir la conexión a la base de datos
+                using (SqlConnection conexion = new SqlConnection(cadenaConexion))
+                {
+                    conexion.Open();
+                    // Crear el comando SQL con parámetros
+                    using (SqlCommand comando = new SqlCommand(consulta, conexion))
+                    {
+                        comando.Parameters.AddWithValue("@Nombre", nombre);
+                        comando.Parameters.AddWithValue("@Apellido", apellido);
+                        comando.Parameters.AddWithValue("@Mail", mail);
+                        comando.Parameters.AddWithValue("@Password", password);
+
+                        // Ejecutar la consulta de inserción
+                        comando.ExecuteNonQuery();
+                        // El nuevo socio ha sido guardado en la base de datos
+                    }
+                }
+                return true;
+            }
+            catch (Exception ex)
+            {
+                // Manejar cualquier error que pueda ocurrir durante la inserción
+                MessageBox.Show($"Error: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return false;
+            }
+
+        }
 
     }
+    
 }

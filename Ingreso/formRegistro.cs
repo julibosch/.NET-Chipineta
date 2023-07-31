@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Ingreso.Entidades;
 
 namespace Ingreso
 {
@@ -69,7 +70,8 @@ namespace Ingreso
                         formLogin formIngreso = new formLogin();
                         formIngreso.ShowDialog();
                     }
-                    else {
+                    else
+                    {
                         this.lblValidar.Visible = true;
                         this.lblValidar.Text = "Ups. Ocurrio un error";
                         this.lblValidar.ForeColor = Color.Red;
@@ -131,6 +133,11 @@ namespace Ingreso
             this.Hide();
             formLogin formIngreso = new formLogin();
             formIngreso.ShowDialog();
+        }
+
+        private void formRegistro_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -230,6 +230,7 @@
             Controls.Add(lblMail);
             Name = "formRegistro";
             Text = "formRegistro";
+            Load += formRegistro_Load;
             ResumeLayout(false);
             PerformLayout();
         }

@@ -14,7 +14,7 @@ namespace Ingreso
 
             this.lblValidar.Visible = true;
 
-            if (Ingreso.Program.Validar(this.txtUsuario.Text, this.txtPass.Text))
+            if (Ingreso.Program.Validar(this.txtUsuario.Text, this.txtPass.Text) != null)
             {
                 this.lblValidar.Text = "Ususario encontrado";
                 this.lblValidar.ForeColor = Color.Green;

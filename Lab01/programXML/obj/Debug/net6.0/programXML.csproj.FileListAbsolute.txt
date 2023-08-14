@@ -1,0 +1,15 @@
+C:\Users\ALUMNO\source\repos\.NET-Chipineta\Lab01\programXML\bin\Debug\net6.0\programXML.exe
+C:\Users\ALUMNO\source\repos\.NET-Chipineta\Lab01\programXML\bin\Debug\net6.0\programXML.deps.json
+C:\Users\ALUMNO\source\repos\.NET-Chipineta\Lab01\programXML\bin\Debug\net6.0\programXML.runtimeconfig.json
+C:\Users\ALUMNO\source\repos\.NET-Chipineta\Lab01\programXML\bin\Debug\net6.0\programXML.dll
+C:\Users\ALUMNO\source\repos\.NET-Chipineta\Lab01\programXML\bin\Debug\net6.0\programXML.pdb
+C:\Users\ALUMNO\source\repos\.NET-Chipineta\Lab01\programXML\obj\Debug\net6.0\programXML.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\source\repos\.NET-Chipineta\Lab01\programXML\obj\Debug\net6.0\programXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUMNO\source\repos\.NET-Chipineta\Lab01\programXML\obj\Debug\net6.0\programXML.AssemblyInfoInputs.cache
+C:\Users\ALUMNO\source\repos\.NET-Chipineta\Lab01\programXML\obj\Debug\net6.0\programXML.AssemblyInfo.cs
+C:\Users\ALUMNO\source\repos\.NET-Chipineta\Lab01\programXML\obj\Debug\net6.0\programXML.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\source\repos\.NET-Chipineta\Lab01\programXML\obj\Debug\net6.0\programXML.dll
+C:\Users\ALUMNO\source\repos\.NET-Chipineta\Lab01\programXML\obj\Debug\net6.0\refint\programXML.dll
+C:\Users\ALUMNO\source\repos\.NET-Chipineta\Lab01\programXML\obj\Debug\net6.0\programXML.pdb
+C:\Users\ALUMNO\source\repos\.NET-Chipineta\Lab01\programXML\obj\Debug\net6.0\programXML.genruntimeconfig.cache
+C:\Users\ALUMNO\source\repos\.NET-Chipineta\Lab01\programXML\obj\Debug\net6.0\ref\programXML.dll

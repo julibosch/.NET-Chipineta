@@ -1,0 +1,16 @@
+C:\Users\ALUMNO\source\repos\.NET-Chipineta\Lab01\Lab01\bin\Debug\net6.0\Agenda.txt
+C:\Users\ALUMNO\source\repos\.NET-Chipineta\Lab01\Lab01\bin\Debug\net6.0\Lab01.exe
+C:\Users\ALUMNO\source\repos\.NET-Chipineta\Lab01\Lab01\bin\Debug\net6.0\Lab01.deps.json
+C:\Users\ALUMNO\source\repos\.NET-Chipineta\Lab01\Lab01\bin\Debug\net6.0\Lab01.runtimeconfig.json
+C:\Users\ALUMNO\source\repos\.NET-Chipineta\Lab01\Lab01\bin\Debug\net6.0\Lab01.dll
+C:\Users\ALUMNO\source\repos\.NET-Chipineta\Lab01\Lab01\bin\Debug\net6.0\Lab01.pdb
+C:\Users\ALUMNO\source\repos\.NET-Chipineta\Lab01\Lab01\obj\Debug\net6.0\Lab01.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\source\repos\.NET-Chipineta\Lab01\Lab01\obj\Debug\net6.0\Lab01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUMNO\source\repos\.NET-Chipineta\Lab01\Lab01\obj\Debug\net6.0\Lab01.AssemblyInfoInputs.cache
+C:\Users\ALUMNO\source\repos\.NET-Chipineta\Lab01\Lab01\obj\Debug\net6.0\Lab01.AssemblyInfo.cs
+C:\Users\ALUMNO\source\repos\.NET-Chipineta\Lab01\Lab01\obj\Debug\net6.0\Lab01.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\source\repos\.NET-Chipineta\Lab01\Lab01\obj\Debug\net6.0\Lab01.dll
+C:\Users\ALUMNO\source\repos\.NET-Chipineta\Lab01\Lab01\obj\Debug\net6.0\refint\Lab01.dll
+C:\Users\ALUMNO\source\repos\.NET-Chipineta\Lab01\Lab01\obj\Debug\net6.0\Lab01.pdb
+C:\Users\ALUMNO\source\repos\.NET-Chipineta\Lab01\Lab01\obj\Debug\net6.0\Lab01.genruntimeconfig.cache
+C:\Users\ALUMNO\source\repos\.NET-Chipineta\Lab01\Lab01\obj\Debug\net6.0\ref\Lab01.dll
